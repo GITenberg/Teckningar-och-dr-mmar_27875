@@ -1,0 +1,33 @@
+_repo: Teckningar-och-dr-mmar_27875
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runeberg, Fredrika Charlotta Tengström
+    aliases:
+    - Runeberg, Fredrika Charlotta Tengstrom
+    - –a –g
+    - Tengström, Fredrika Charlotta
+    - Runeberg, Frederika
+    birthdate: 1807
+    deathdate: 1879
+    gutenberg_agent_id: '6413'
+    url: http://www.gutenberg.org/2009/agents/6413
+    wikipedia: http://fi.wikipedia.org/wiki/Fredrika_Runeberg
+description: ''
+gutenberg_issued: '2009-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27875'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Swedish'
+- !lcsh 'Swedish fiction'
+- !lcc 'PT'
+title: Teckningar och drömmar
+url: http://www.gutenberg.org/ebooks/27875
